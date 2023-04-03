@@ -10,7 +10,7 @@ Olá, sou um desenvolvedor júnior com uma paixão pela cultura geek e tecnologi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Spardevs&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Spardevs&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spardevs&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-ruby-one.vercel.app/top-langs/?username=Spardevs&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Spardevs&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
