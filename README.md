@@ -12,8 +12,5 @@ Olá, sou um desenvolvedor com uma paixão pela cultura geek e tecnologia. Recen
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Spardevs&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spardevs&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Spardevs&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Spardevs&icon=5&color=1)](https://visitcount.itsvg.in)
