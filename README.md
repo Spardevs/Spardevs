@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou um desenvolvedor júnior com uma paixão pela cultura geek e tecnologia. Recentemente comecei a trabalhar na área de desenvolvimento de software e estou estudando análise e desenvolvimento de sistemas para aprimorar minhas habilidades. Sou uma pessoa que gosta de aprender e estou sempre procurando por novos desafios.
+Olá, sou um desenvolvedor com uma paixão pela cultura geek e tecnologia. Recentemente comecei a trabalhar na área de desenvolvimento de software e estou estudando análise e desenvolvimento de sistemas para aprimorar minhas habilidades. Sou uma pessoa que gosta de aprender e estou sempre procurando por novos desafios.
 
 
 ## 🌐 Socials:
